@@ -1,2 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string[] array ={ "a", "bb","ccc", "dddd", "eeeee", "z"};
+
+var result = new string[array.Length];
+var realSize = 0;
+foreach (var value in array)
+
+
+
+
+
+
+
+
+
+
+
+
